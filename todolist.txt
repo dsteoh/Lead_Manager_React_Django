@@ -1,4 +1,5 @@
 1. Need to modify the api endpoints
+1.1. Add edpoint for auth
 1.2 Edit the controller of main
 1.3 Modify the endpoing for the cool images
 1.5 Final change to make the app look cool

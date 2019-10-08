@@ -1,1 +1,2 @@
 1. Need to modify the api endpoints
+1.3 Modify the endpoing for the cool images

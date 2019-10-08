@@ -1,2 +1,4 @@
 1. Need to modify the api endpoints
 1.1. Add edpoint for auth
+1.5 Final change to make the app look cool
+

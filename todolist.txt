@@ -1,1 +1,2 @@
 1. Need to modify the api endpoints
+1.2 Edit the controller of the Full Stack QA DEV brain

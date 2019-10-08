@@ -1,1 +1,2 @@
 1. Need to modify the api endpoints
+1.5 Final change to make the app look cool
